@@ -45,7 +45,7 @@ O projeto segue uma arquitetura em camadas:
 - **Exceptions** — tratamento centralizado de erros.
 
 ## Estrutura do Projeto
-
+```
 BibliotecaAPI/
 ├── Controllers/ # Livros, Usuários, Empréstimos
 ├── Services/
@@ -59,7 +59,7 @@ BibliotecaAPI/
 ├── Program.cs
 ├── appsettings.json
 └── BibliotecaAPI.csproj
-
+```
 
 ## Como Executar
 
